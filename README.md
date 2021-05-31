@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gobarber_19xmN2BUU.svg" width="250px" />
-</h1>
 
 <p align="center">
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,10 +8,6 @@
   <a href="#iphone-iniciando-mobile">React Native</a>
 </p>
 
-<h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1591099832/gobarber_wadrfc.gif" />
-    <img alt="GoBarber Mobile" src="https://res.cloudinary.com/matheuspires/image/upload/v1592746410/gobarber-mobile_zfchn9.gif" />
-</h1>
 
 ## :page_with_curl: Sobre
 Este repositório contém um API REST em Node.js como back-end, uma aplicação em ReactJS como front-end e um app mobile em React Native, todos utilizando TypeScript.
@@ -35,14 +28,6 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 - Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
 - Um dispositivo ou emulador iOS ou Android
 
-## :rocket: Começando
-``` bash
-  # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gobarber-2.0 gobarber
-
-  # Entrar no diretório:
-  $ cd gobarber
-```
 
 ## :gear: Iniciando back-end
 ```bash
@@ -82,5 +67,3 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
   # Rodar a aplicação:
   $ yarn ios ou yarn android 
 ```
-
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
